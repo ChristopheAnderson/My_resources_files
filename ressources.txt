@@ -1,0 +1,82 @@
+Intéligence Artificielle :
+	-chatgpt
+	-chatpdf
+	-depseek
+
+Cloud service
+	-render
+	-Vercel
+	-GCP(Google Cloud Plateforme)
+	-Github
+	-https://www.docker.com/products/trusted-content/open-source/
+
+Emplois en ligne
+	https://fr.jooble.org/SearchResult?loc=2&salaryMin=1500&salaryRate=3&ukw=django
+	https://www.welcometothejungle.com/en/jobs
+	https://remotive.com/remote-jobs/design/lead-infrastructure-engineer-1966229
+	https://remoteok.com/remote-jobs/remote-senior-frontend-engineer-nexus-mutual-905654
+	https://fr.indeed.com/?from=mobRdr&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt
+	https://www.free-work.com/fr
+	https://psie.bj/postes-ouverts
+
+Avoir un numero français avec SMS
+	https://quackr.io/temporary-numbers/france/33780763733
+
+Cv
+	https://www.canva.com/design/DAGZxVqyIOw/lI_Ehg4IWcxuCPQaxxrHtg/edit
+
+
+Tailwindcss components plateformes
+	https://tailwindui.com/components/marketing/sections/team-sections
+	https://www.material-tailwind.com/blocks#ecommerce-ui
+	https://flyonui.com/docs/overlays/dropdown/
+	https://tailgrids.com/components/footers
+	https://tailwindflex.com/tags
+	https://www.hyperui.dev/
+	https://uiverse.io/SteveBloX/short-fish-35
+	https://www.preline.co/examples/features-general.html
+	https://www.mambaui.com/components/avatar
+	https://www.wickedblocks.dev/
+	https://kutty.netlify.app/components/
+	https://treact.owaiskhan.me/
+	https://kitwind.io/products/kometa/components/headers
+	https://www.tailwindtoolbox.com/starter-components
+	https://www.tailwind-kit.com/components/team
+	https://tailblocks.cc/
+	https://www.creative-tim.com/twcomponents/component/tailwind-css-popover
+	https://pagedone.io
+
+
+Roadmap designs
+	https://roadmap.sh/
+
+
+LLM Language
+	https://python.langchain.com/docs/introduction/
+	https://python.langchain.com/api_reference/
+	https://pytorch.org/docs/stable/index.html
+	https://huggingface.co/
+	https://aistudio.google.com/apikey
+	https://ai.google.dev/gemini-api/docs/get-started/tutorial?lang=web&hl=fr
+	
+
+De bonnes images de qualité
+	https://sketchfab.com/search?q=clothes&type=collections
+	https://depositphotos.com/fr/photos/chemise.html?qview=54795495
+	https://unsplash.com/fr/s/photos/T-shirt
+	https://www.pexels.com
+
+Icons
+	https://heroicons.com/solid
+	https://pagedone.io/icons
+	
+	
+Logos
+	https://logo.com/stitch/new-logo
+
+
+svg
+	https://fr.freepik.com/photos-vecteurs-libre/avatar-svg
+		
+
+
