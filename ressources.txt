@@ -61,6 +61,7 @@ LLM Language
 	
 
 De bonnes images de qualité
+	https://playground.com/design?q=T-shirt&f=home
 	https://sketchfab.com/search?q=clothes&type=collections
 	https://depositphotos.com/fr/photos/chemise.html?qview=54795495
 	https://unsplash.com/fr/s/photos/T-shirt
