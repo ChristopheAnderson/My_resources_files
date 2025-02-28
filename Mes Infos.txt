@@ -1,0 +1,1 @@
+wget --mirror --convert-link --wait=2 website

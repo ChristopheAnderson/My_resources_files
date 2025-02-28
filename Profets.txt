@@ -1,0 +1,22 @@
+UBENIA
+SAOFA     ( 
+Crasheet  ( Plateforme de calcul de moyenne et de disposition de rang pour les enseignants )
+CVilio 	  ( Créaction de CV interactive en utilisant Chat GTP avec corrections automatique et des champs de formulaires)
+RactForm  ( Formulaire de questionnement sous forme de chat )
+Welldone  ( correction de copie )
+
+
+API for OpenAI
+
+API-Key me :  
+
+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
+
+API-Key service account : 
+
+sk-svcacct-SITVcYsWTkZyFNLFUv7oVavfKqFTugnkbKesXlcv3SRbiPQOAqRK4JrUMTwiRT3BlbkFJV1R7lI5pDiBeNAG8oaK7Eo3DBYLHS6nF10s9UzYHavW-NiPQRWbk43ppZYFOwA
+
+
+API for Google ( Gemini )
+
+AIzaSyA0CCYiBGQPGy3ZC99ZoMgoVRCnGKXKRhw
