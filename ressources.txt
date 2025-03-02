@@ -27,6 +27,7 @@ Cv
 
 
 Tailwindcss components plateformes
+	https://tailspark.co/
 	https://www.tailbits.com
 	https://tailwindui.com/components/marketing/sections/team-sections
 	https://www.material-tailwind.com/blocks#ecommerce-ui
