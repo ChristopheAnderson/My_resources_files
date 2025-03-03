@@ -44,7 +44,7 @@ def modify_function2(old_value):
 
 
 # Exemple d'utilisation
-file_path = "polls/templates/polls/index.html"  # Remplacez par le chemin de votre fichier
+file_path = "polls/templates/polls/Blog.html"  # Remplacez par le chemin de votre fichier
 patterns_and_functions = [
     (r"href=\"(.*?)\"", modify_function1),  # Remplacement pour les liens
     (r"src=\"(.*?)\"", modify_function2),  # Remplacement pour les titres (juste un exemple)
