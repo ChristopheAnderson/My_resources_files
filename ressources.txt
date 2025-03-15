@@ -27,7 +27,9 @@ Cv
 
 
 Tailwindcss components plateformes
-
+	
+	https://www.tailawesome.com/?query=&technology=2&type=kit
+	https://www.creative-tim.com/twcomponents/
 	https://www.tailwindtap.com/components
 	https://tailspark.co/
 	https://flowbite.com/
@@ -63,6 +65,37 @@ Tailwindcss components plateformes
 	https://www.creative-tim.com/twcomponents/component/tailwind-css-popover
 	https://pagedone.io
 	https://uigenerator.org/?category=1
+
+
+Html Bootstrap and CSS templates
+	https://colorlib.com/wp/
+	https://uicookies.com/
+	https://templatesjungle.com/downloads/category/free-html-templates/
+	https://www.free-css.com/free-css-templates
+	https://www.tooplate.com/
+	https://www.elegantthemes.com/layouts/art-design/furniture-store-landing-page
+	https://www.codingnepalweb.com/
+	https://www.toocss.com/
+	https://www.templatemonster.com/fr/modeles-site/
+	https://www.templatemonster.com/free-css-js-gallery-html-website-templates/
+	https://templatemag.com/
+	https://bootstrap-top-design.com/
+	https://graphiste.com/blog/templates-html-css/
+	https://designspartan.com/ressources/50-templates-html5-de-qualite-a-telecharger-gratuitement/
+	https://www.undressed-design.com/2014/08/10-templates-html5-et-css3-a-telecharger-gratuitement/
+	https://bootstrap-top-design.com/
+
+
+
+
+html and Js templates
+
+	https://jvcodes.com/
+	https://www.codewithfaraz.com/
+	https://codeshack.io/multi-select-dropdown-html-javascript/
+	https://www.codingnepalweb.com/category/javascript/
+	https://www.sourcecodester.com/html?page=1
+
 	
 
 
@@ -118,6 +151,7 @@ Icons
 	
 Logos
 	https://logo.com/stitch/new-logo
+	https://www.greetingsisland.com/
 
 
 svg
