@@ -88,13 +88,22 @@ Html Bootstrap and CSS templates
 
 
 
-html and Js templates
-
+html CSS and Js templates
+	https://www.youtube.com/watch?v=3l8Lob4ysI0&list=PLasZMtSCguZZvRPxoJJPRWkui9pZkl7qI
+	https://github.com/codewithsadee?tab=repositories
+	
+	https://savekoding.blogspot.com/search/label/Website%20Ecommerce
+	https://github.com/prabinmagar
+	https://themewagon.com/theme-tag/ecommerce-template/
 	https://jvcodes.com/
 	https://www.codewithfaraz.com/
 	https://codeshack.io/multi-select-dropdown-html-javascript/
 	https://www.codingnepalweb.com/category/javascript/
 	https://www.sourcecodester.com/html?page=1
+	https://scrollrevealjs.org/api/easing.html
+	https://swiperjs.com/swiper-api
+	https://www.lundevweb.com/search/label/Javascript
+	https://github.com/lifeonthecode
 
 	
 
@@ -131,8 +140,16 @@ LLM Language
 	https://aistudio.google.com/apikey
 	https://ai.google.dev/gemini-api/docs/get-started/tutorial?lang=web&hl=fr
 	
+google font
 
-De bonnes images de qualité
+	https://fonts.google.com/?icon.size=24&icon.color=%231f1f1f
+	https://fonts.google.com/icons?icon.size=24&icon.color=%231f1f1f
+
+
+
+
+Images de qualité
+	https://www.freepik.es/?log-in=google
 	https://community.fotor.com/search/entry/?query=t-shirt
 	https://playground.com/design?q=T-shirt&f=home
 	https://sketchfab.com/search?q=clothes&type=collections
@@ -147,7 +164,8 @@ Icons
 	https://tailkit.com/tools/bootstrap-icons
 	https://heroicons.com/solid
 	https://pagedone.io/icons
-	
+	https://remixicon.com/
+	https://fonts.google.com/icons?icon.size=24&icon.color=%231f1f1f
 	
 Logos
 	https://logo.com/stitch/new-logo
